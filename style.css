@@ -1,0 +1,27 @@
+#one{
+color: blueviolet;
+}
+#two{
+    color: #726af7; ;
+}
+#three{
+    color: rgb(123, 233, 543);
+}
+#four{
+    color: rgba(123, 233, 543, 0.5);
+}
+#five{
+    transform: rotateX(180deg);
+    color:blue;
+}
+#six{
+    text-decoration: line-through overline;
+}
+#seven{
+    text-transform: capitalize;
+    color: aquamarine;
+}
+#eight{
+    font-size: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
